@@ -13,10 +13,10 @@ Over eight weeks, this program covers a wide array of topics, from foundational 
 ### Weeks 2 & 3: Cloud Computing
 - Azure Cloud Fundamentals, covering cloud services, storage, networking, and security principles.
 
-### Weeks 4 & 5: Containerization & Orchestration
+### Weeks 4 , 5 & 6 : Containerization & Orchestration
 - Exploration of Docker and Kubernetes (K8s), focusing on container technologies and orchestration to manage containers efficiently.
 
-### Weeks 6 & 7: DevOps Concepts
+### Weeks 7: DevOps Concepts
 - Version Control with Git, introducing the fundamentals of source code management.
 - Introduction to Artifact management with JFrog.
 - Continuous Integration/Continuous Deployment (CI/CD), understanding the pipelines that automate steps in software delivery.
